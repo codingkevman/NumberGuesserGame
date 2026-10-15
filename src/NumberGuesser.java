@@ -20,7 +20,7 @@ public class NumberGuesser{
 
             int lives = 7;
 
-            
+             //test
             System.out.println("The number to be guessed must be b/w 0 & 100");
             System.out.print("Please enter a number to be guessed: ");
             int number = input.nextInt();
